@@ -5,8 +5,8 @@ General list of tools for RE/MA etc
 Website that may contain mitigation instructions for ransomware lockout scenario
 
 ## Samples for Research
- https://contagiodump.blogspot.com/
- http://malwaredb.malekal.com/
+### https://contagiodump.blogspot.com/
+### http://malwaredb.malekal.com/
  https://github.com/ytisf/theZoo
  https://malshare.com/
  https://twitter.com/MalwareChannel
